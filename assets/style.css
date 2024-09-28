@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Alice;
+    src: url("./fonts/Alice-Regular.ttf");
+}
+@font-face {
+    font-family: Gilroy;
+    src: url("./fonts/Gilroy-Medium.ttf");
+}
+@font-face {
+    font-family: Montserrat;
+    src: url("./fonts/Montserrat-Medium.ttf");
+}
+body{
+    font-family: Alice, sans-serif;
+}
+.alice{
+    font-family: Alice, sans-serif;
+}
+.gilroy{
+    font-family: Gilroy, sans-serif;
+}
+.montserrat{
+    font-family: Montserrat, sans-serif;
+}
